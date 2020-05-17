@@ -23,9 +23,11 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 [image2]: ./after1.png "After"
 
 Using original algorithm
+
 ![alt text][image1]
 
 After implementing the new algorithm
+
 ![alt text][image2]
 
 
